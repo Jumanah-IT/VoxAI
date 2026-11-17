@@ -37,4 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
 # VoxAI
->>>>>>> 1ca5204f2ca42b4c1fcf4ce3bc9bdbbee4cbbf7e
+
